@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7961f917-d8b0-4f0d-a80a-2e98b0bc8c1e" name="Default" comment="" />
+    <list default="true" id="7961f917-d8b0-4f0d-a80a-2e98b0bc8c1e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calculate_marks_app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_cookie_app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_static_script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/cookie_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/final_result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/readcookie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/static_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/student.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,101 +28,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChatBot.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/ChatBot.py">
+      <file leaf-file-name="generateresult.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generateresult.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flask_learning.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/flask_learning.py">
+      <file leaf-file-name="learn_static_script.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_static_script.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/login.html">
+      <file leaf-file-name="static_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/static_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="x.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/x.html">
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/hello.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flask_learning2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/flask_learning2.py">
+      <file leaf-file-name="calculate_marks_app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calculate_marks_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/results.html">
+      <file leaf-file-name="student.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/student.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="51">
+              <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generateresult.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/generateresult.py">
+      <file leaf-file-name="final_result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/final_result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="learn_cookie_app.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_cookie_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readcookie.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/readcookie.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookie_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/cookie_index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/hello.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logicscript.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/logicscript.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="junga2_learningscript.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/junga2_learningscript.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -120,10 +133,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -140,7 +156,16 @@
         <option value="$PROJECT_DIR$/flask_learning2.py" />
         <option value="$PROJECT_DIR$/templates/results.html" />
         <option value="$PROJECT_DIR$/generateresult.py" />
-        <option value="$PROJECT_DIR$/../Flask_Framework_python3.6/ChatBot.py" />
+        <option value="$PROJECT_DIR$/ChatBot.py" />
+        <option value="$PROJECT_DIR$/learn_static_script.py" />
+        <option value="$PROJECT_DIR$/templates/static_index.html" />
+        <option value="$PROJECT_DIR$/static/hello.js" />
+        <option value="$PROJECT_DIR$/templates/student.html" />
+        <option value="$PROJECT_DIR$/calculate_marks_app.py" />
+        <option value="$PROJECT_DIR$/templates/final_result.html" />
+        <option value="$PROJECT_DIR$/templates/cookie_index.html" />
+        <option value="$PROJECT_DIR$/learn_cookie_app.py" />
+        <option value="$PROJECT_DIR$/templates/readcookie.html" />
       </list>
     </option>
   </component>
@@ -165,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,8 +202,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_Framework_Python3.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_Framework_python3.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_Framework_Python3.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_Framework_python3.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,58 +245,7 @@
       <recent name="C:\Users\bmakhija\PycharmProjects\FacebookChatBot\template" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.generateresult (1)">
-    <configuration default="false" name="logicscript" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FacebookChatBot" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logicscript.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="junga2_learningscript" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FacebookChatBot" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junga2_learningscript.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="flask_learning2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FacebookChatBot" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_learning2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.learn_cookie_app">
     <configuration default="false" name="generateresult" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,12 +270,63 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Flask_Framework_python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Flask_Framework_Python3.6" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Flask_Framework_python3.6/generateresult.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generateresult.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="learn_static_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask_Framework_Python3.6" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_static_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="calculate_marks_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask_Framework_Python3.6" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculate_marks_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="learn_cookie_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask_Framework_Python3.6" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_cookie_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -426,19 +479,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.logicscript" />
-      <item index="1" class="java.lang.String" itemvalue="Python.junga2_learningscript" />
-      <item index="2" class="java.lang.String" itemvalue="Python.flask_learning2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.generateresult" />
-      <item index="4" class="java.lang.String" itemvalue="Python.generateresult (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generateresult" />
+      <item index="1" class="java.lang.String" itemvalue="Python.generateresult (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.learn_static_script" />
+      <item index="3" class="java.lang.String" itemvalue="Python.calculate_marks_app" />
+      <item index="4" class="java.lang.String" itemvalue="Python.learn_cookie_app" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.generateresult (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.generateresult" />
-        <item index="2" class="java.lang.String" itemvalue="Python.flask_learning2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.logicscript" />
-        <item index="4" class="java.lang.String" itemvalue="Python.junga2_learningscript" />
+        <item index="0" class="java.lang.String" itemvalue="Python.learn_cookie_app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.calculate_marks_app" />
+        <item index="2" class="java.lang.String" itemvalue="Python.learn_static_script" />
+        <item index="3" class="java.lang.String" itemvalue="Python.generateresult (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generateresult" />
       </list>
     </recent_temporary>
   </component>
@@ -449,11 +502,10 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -461,9 +513,13 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286908" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -472,7 +528,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../Flask_Framework_python3.6/ChatBot.py</url>
+          <url>file://$PROJECT_DIR$/ChatBot.py</url>
           <line>21</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -482,23 +538,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/ChatBot.py">
+    <entry file="file://$PROJECT_DIR$/ChatBot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/somePackage/__init__.py">
+    <entry file="file://$PROJECT_DIR$/flask_learning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -506,7 +562,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/x.html">
+    <entry file="file://$PROJECT_DIR$/templates/x.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -514,23 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/junga2_learningscript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/flask_learning2.py">
+    <entry file="file://$PROJECT_DIR$/flask_learning2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -538,7 +578,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/templates/hello.html">
+    <entry file="file://$PROJECT_DIR$/templates/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generateresult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
@@ -546,7 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/logicscript.py">
+    <entry file="file://$PROJECT_DIR$/logicscript.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
@@ -554,7 +610,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/generateresult.py">
+    <entry file="file://$PROJECT_DIR$/junga2_learningscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/x.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_learning2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generateresult.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -562,18 +674,187 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/ChatBot.py">
+    <entry file="file://$PROJECT_DIR$/templates/hello.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Flask_Framework_python3.6/flask_learning.py">
+    <entry file="file://$PROJECT_DIR$/logicscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/junga2_learningscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/somePackage/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/x.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/junga2_learningscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_learning2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logicscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generateresult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/final_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculate_marks_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/static_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_static_script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/readcookie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cookie_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_cookie_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
