@@ -9,9 +9,9 @@ def index():
 def setcookie():
     if request.method == 'POST':
         user = request.form['nm']
-        resp = make_response(render_template('readcookie.html'))
-        resp.set_cookie('userID', user)
-        return resp
+    resp = make_response(render_template('readcookie.html'))
+    resp.set_cookie('userID', user)
+    return resp
 
 @app.route('/getcookie')
 def getcookie():
@@ -20,3 +20,5 @@ def getcookie():
 
 if __name__ == '__main__':
    app.run(debug = True)
+
+#"<b><a href = '/getcookie'>click here to get cookie</a></b>"
